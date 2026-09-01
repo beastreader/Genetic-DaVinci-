@@ -1,6 +1,6 @@
 # Genetic Da Vinci
 
-Rebuild an image out of a handful of **circles, triangles and lines** using a
+Rebuild an image out of **circles, triangles and lines** using a
 genetic / hill-climbing search. Upload a picture and watch a small number of
 shapes evolve into a faceted, poster-like version of it — all running locally,
 no server, no account.
