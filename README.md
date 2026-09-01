@@ -5,11 +5,11 @@ genetic / hill-climbing search. Upload a picture and watch a small number of
 shapes evolve into a faceted, poster-like version of it — all running locally,
 no server, no account.
 
-![demo](assets/demo.gif)
+![demo](demo.gif)
 
 | Target | Reconstruction |
 | --- | --- |
-| ![](assets/sample_target.jpg) | ![](assets/demo_result.png) |
+| ![](sample_target.jpg) | ![](demo_result.png) |
 
 ## How it works
 - A **genetic algorithm** proposes batches of candidate shapes and keeps the
