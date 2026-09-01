@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Numba / build artifacts
+*.nbi
+*.nbc
+*.npy
+*.pyd
+*.obj
+*.lib
+build/
+
+# Local, personal, and secret files - never publish these
+*.pem
+*.key
+*.crt
+.gradio/
+.claude/
+islands/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

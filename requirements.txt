@@ -1,0 +1,12 @@
+# Genetic Da Vinci - runtime dependencies
+#
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: `numba` is picky about the numpy version it supports. If pip picks an
+# incompatible pair, pin numpy explicitly (e.g. `numpy<2` for older numba).
+numpy
+scipy
+numba
+pillow
+opencv-python
+gradio
